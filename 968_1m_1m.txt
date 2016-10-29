@@ -1,0 +1,10 @@
+Connecting to host 172.16.150.3, port 5001
+[  4] local 172.16.150.1 port 49847 connected to 172.16.150.3 port 5001
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-0.30   sec  1.00 MBytes  28.0 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-0.30   sec  1.00 MBytes  28.0 Mbits/sec                  sender
+[  4]   0.00-0.30   sec  1007 KBytes  27.5 Mbits/sec                  receiver
+
+iperf Done.
